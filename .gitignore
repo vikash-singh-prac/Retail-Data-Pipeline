@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+env/
+
+# Airflow logs
+logs/
+*.log
+
+# Temp or output files
+tmp/
+*.db
+*.sqlite3
+*.csv
+
+# Ignore your local data (raw or processed)
+data/
+scripts/output/
+*.parquet
+
+# VSCode settings
+.vscode/
+
+# Mac or Windows system files
+.DS_Store
+Thumbs.db
+
+# Environment variables or secrets
+.env
+.env.*
