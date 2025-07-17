@@ -2,6 +2,10 @@
 
 An end-to-end data pipeline for sentiment analysis and retail sales insights using modern data engineering tools.
 
+## Architecture Diagram
+
+![Architecture Diagram](images/Architecture_Diagram.png)
+
 ## 🚀 Tech Stack
 
 - **Python**
